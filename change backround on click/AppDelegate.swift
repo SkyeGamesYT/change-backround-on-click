@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  change backround on click
 //
-//  Created by Gaskell, Roydon (514077) on 4/18/23.
+//  Created by SkyeGamesYT
 //
 
 import UIKit
